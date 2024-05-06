@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on a Java backend server and ONNX RNN
 - ⚙️ I’m currently learning Cuda & QT
 
-[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=NathanFAIN&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=NathanFAIN&hide=objective-c,makefile&layout=compact&theme=tokyonight"><br>
+</p>
