@@ -2,10 +2,9 @@
 
 <a href="https://www.linkedin.com/in/nathanfain/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- 🔭 I’m currently working on a Java server and NextJs website
-- ⚙️ I’m currently learning OpenGL & QT
+- 🔭 I’m currently working on a Java backend server and ONNX RNN
+- ⚙️ I’m currently learning Cuda & QT
 
-<p align="left">
-    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=NathanFAIN&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
-    <image src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=NathanFAIN&hide=objective-c,makefile&layout=compact&theme=tokyonight"><br>
-</p>
+[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NathanFAIN/profile-repo/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
